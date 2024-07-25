@@ -16,26 +16,26 @@
 # Captures D'ecrants
 
 # NavBar
-![bare de navigation](/home/akw/gest_project/public/captures/c1.png)
+![bare de navigation](/public/captures/c1.png)
 
 # Formulaire de project
-![formulaire project](/home/akw/gest_project/public/captures/c2.png)
+![formulaire project](/public/captures/c2.png)
 # Formulaire de task
-![formulaire de task](/home/akw/gest_project/public/captures/c3.png)
+![formulaire de task](/public/captures/c3.png)
 
 # Edit Formulaire Project
-![bare1](/home/akw/gest_project/public/captures/c4.png)
+![bare1](/public/captures/c4.png)
 
 # Edit Formulaire task
-![bare2](/home/akw/gest_project/public/captures/c5.png)
+![bare2](/public/captures/c5.png)
 # Ui project sans la nav
-![bare3](/home/akw/gest_project/public/captures/c6.png)
+![bare3](/public/captures/c6.png)
 # ui task sans la nav
-![bare4](/home/akw/gest_project/public/captures/c7.png)
+![bare4](/public/captures/c7.png)
 # footer
-![bare5](/home/akw/gest_project/public/captures/c8.png)
+![bare5](/public/captures/c8.png)
 # ui final
-![bare5](/home/akw/gest_project/public/captures/c9.png)
+![bare5](/public/captures/c9.png)
 
 
 
