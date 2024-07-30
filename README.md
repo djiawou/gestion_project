@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # gestion_project
 =======
 # Titre Du TP 
@@ -54,4 +53,3 @@ php artisan migrate
 
 # Demarrer le serveur
 php artisan serve
->>>>>>> 5c66cb0 (validation de tout le projet)
