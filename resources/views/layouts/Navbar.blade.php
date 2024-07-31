@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">Gestionnaire de Projets</a>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KEv3qYMLP64_DWyWq3zfrZEtuMG0D4zNMA&s" alt="logo" with="15px">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
