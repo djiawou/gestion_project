@@ -55,3 +55,8 @@ footer a:hover {
     background-color: #817777;
     color: #4CAF50;
 }
+img{
+    width: 8%; 
+    background-color: none;
+    background-image: none;
+}
